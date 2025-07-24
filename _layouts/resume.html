@@ -33,13 +33,10 @@
         </div>
         <!-- 소개 요약 -->
         <div class="executive-summary" itemprop="description">
-          <p>Hi, I'm Seungwon Lim. I'm a researcher at Yonsei University, <a href="https://mirlab.yonsei.ac.kr/">MIRLAB (Multimodal Intelligance Research Lab)</a> advised by <a href="https://yj-yu.github.io/home/">Youngjae Yu</a>.
-          I received my bachelor's degree in Computer Science, and I am currently pursuing an integrated MS/PhD program in Computer Science.
+          <p>Hi, I'm Yejin Choi. I'm a researcher at Yonsei University, <a href="https://mirlab.yonsei.ac.kr/">MIRLAB (Multimodal Intelligance Research Lab)</a> advised by <a href="https://yj-yu.github.io/home/">Youngjae Yu</a>.
+          I received my bachelor of Engineering degree in Computer Engineering, and I am currently pursuing an integrated MS/PhD program in Artificial Intelligence.
           </p>
-          <p>My Research question I want to develop is <strong>"What lies behind AI systems' actions and utterances?"</strong>.
-          I believe their actions and utterances cannot be attributed solely to computation, but can be analyzed through humanities, sociology, and linguistics. 
-          I'm particularly interested in <strong>language</strong> as the connection between AI systems and fields studying human experience.
-        </p>
+          <p>My research focuses on <b>multimodal AI for real-world</b> tasks, emphasizing task-aware modeling and system-level efficiency to enable AI systems that perceive, reason, and act in complex environments.</p>
         </div>
         <!-- 연락 버튼 -->
         <!-- {% if site.resume_looking_for_work == 'yes' %}
@@ -80,7 +77,7 @@
               <p class="resume-item-authors" itemprop="author">
                 {% assign author_list = publication.authors | split: ", " %}
                 {% for author in author_list %}
-                  {% if author contains "Seungwon Lim" %}
+                  {% if author contains "Yejin Choi" %}
                     <span class="author-highlight">{{ author }}</span>{% unless forloop.last %}, {% endunless %}
                   {% else %}
                     <span class="author-normal">{{ author }}</span>{% unless forloop.last %}, {% endunless %}

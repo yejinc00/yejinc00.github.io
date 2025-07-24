@@ -1,5 +1,5 @@
 # Site settings
-title: "Seungwon Lim"
+title: "Yejin Choi"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 
@@ -15,11 +15,11 @@ sass:
 # Resume settings
 resume_theme: default
 resume_avatar:                  "true"
-resume_name:                    "Seungwon Lim"
+resume_name:                    "Yejin Choi"
 resume_title:                   ""
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "sngwon@yonsei.ac.kr"
+resume_contact_email:           "yejinchoi012@yonsei.ac.kr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -49,10 +49,9 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/pull-ups"
-  resume_google_scholar_url:    "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L-Ikpu0AAAAJ"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_linkedin_url:          "https://www.linkedin.com/in/seungwon-lim-196802246/"
+  resume_github_url:            "https://github.com/yejinc00"
+  resume_google_scholar_url:    "https://scholar.google.com/citations?user=pDVEzVEAAAAJ&hl"
+  resume_linkedin_url:          "https://www.linkedin.com/in/yejin-choi-677202223/"
 resume_print_social_links:      true
 
 # Design settings
