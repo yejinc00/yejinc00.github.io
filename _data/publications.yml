@@ -1,6 +1,8 @@
 
 - title: "Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation"
   authors: Yejin Choi*, Jaewoo Park*, Janghan Yoon, Saejin Kim, Jaehyun jeon, Youngjae Yu
+  url: https://arxiv.org/pdf/2508.17079
+  code: https://github.com/yejinc00/PREMIR
   image: PREMIR.png
   journal: EMNLP'2025 Main
   summary: TLDR; PREMIR makes retrieval more practical and robust by using cross-modal pre-questions over token-level matching, outperforming baselines in real-world closed-domain, and multimodal multilingual tasks.
