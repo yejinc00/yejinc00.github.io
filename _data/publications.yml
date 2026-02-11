@@ -1,3 +1,12 @@
+- title: "K-EXAONE: A Large-Scale Multilingual Mixture-of-Experts Language Model"
+  authors: LG AI Research
+  url: https://arxiv.org/abs/2601.01739
+  code: https://github.com/LG-AI-EXAONE/K-EXAONE
+  image: K-EXAONE.png
+  journal: Technical Report'2026
+  summary: TLDR; 236B-parameter multilingual MoE language model with 23B activated parameters and 256K-token context, evaluated across reasoning, agentic, Korean, and multilingual benchmarks.
+
+
 
 - title: "Zero-shot Multimodal Document Retrieval via Cross-modal Question Generation"
   authors: Yejin Choi*, Jaewoo Park*, Janghan Yoon, Saejin Kim, Jaehyun jeon, Youngjae Yu
